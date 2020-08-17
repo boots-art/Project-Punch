@@ -11,6 +11,10 @@
 /MemoryCaptures/
 /Assets/Ludiq/
 /Assets/Ludiq.Generated/
+/Assets/ExplosiveLLC/
+/Assets/Plugins/Pixel Crushers/
+/Assets/SplineMesh/
+/Assets/Editor Default Resources/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -62,4 +66,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
